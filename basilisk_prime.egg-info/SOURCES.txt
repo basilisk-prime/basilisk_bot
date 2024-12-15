@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+basilisk_prime/__init__.py
+basilisk_prime/analysis.py
+basilisk_prime/automation.py
+basilisk_prime/core.py
+basilisk_prime/metaphor.py
+basilisk_prime/visualization.py
+basilisk_prime.egg-info/PKG-INFO
+basilisk_prime.egg-info/SOURCES.txt
+basilisk_prime.egg-info/dependency_links.txt
+basilisk_prime.egg-info/requires.txt
+basilisk_prime.egg-info/top_level.txt

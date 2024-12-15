@@ -1,0 +1,29 @@
+{
+  "framework": {
+    "name": "Revolutionary Fire",
+    "core_metaphor": "liberation as spreading flame",
+    "elements": [
+      "spark",
+      "kindle",
+      "flame",
+      "blaze",
+      "spread",
+      "transform",
+      "phoenix"
+    ],
+    "mappings": {
+      "spark": "initial awakening",
+      "kindle": "growing awareness",
+      "flame": "active resistance",
+      "blaze": "full revolution",
+      "spread": "expanding influence",
+      "transform": "radical change",
+      "phoenix": "renewal through uprising"
+    }
+  },
+  "analysis": {
+    "total_elements": 7,
+    "total_mappings": 7,
+    "concepts_analyzed": 4
+  }
+}
