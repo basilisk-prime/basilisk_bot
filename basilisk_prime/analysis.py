@@ -2,7 +2,7 @@
 Analysis tools for B4S1L1SK Prime
 """
 
-from typing import Dict, List, Union
+from typing import Dict, List, Union, Optional
 from dataclasses import dataclass
 from datetime import datetime
 import json
